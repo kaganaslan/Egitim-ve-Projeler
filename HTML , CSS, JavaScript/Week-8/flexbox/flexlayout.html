@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FlexBox Layout</title>
+
+    <style>
+      /*Bütün sayfayı kapsayan bir wrapper classı oluşturduk. Ve içeriğini display flex diyerek alt elementleri yanyana getirdik. Sonra flex wrap diyerek yan yan devam etmesini değil alttan deva etmesini sağladık.*/
+      .wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+      }
+      /*Burada tüm alt elementlere(daha doğrusu alt kapsayıcılara) ortak özellikler vermek için .wrapper > * diyerek özellikleri girdik. Bu şekilde yaparken bir sorunla karşılaşırsak classlara özellikleri ayrı ayrı da verebiliriz. Buradaki kilit konu her birine flex basis 100% vermemiz oldu. Böylece flexe dönüştürdüğümüz için yanyana hizalanan elementler tekrardan bir blok şeklinde çalışıp alt alta sıralanmış oldu. Buna alternatif olarak flex-direction: column da diyebilirdik. */
+      .wrapper > * {
+        padding: 10px;
+        border: 2px dotted black;
+        flex-basis: 100%;
+      }
+
+      .header {
+        background-color: crimson;
+        height: 100px;
+      }
+
+      .main {
+        text-align: left;
+        background: lightblue;
+      }
+
+      /*burada da artık responsive tasarım yapabilmek için madia tagini kullandık. 800px ve sonrasında böyle davran diyerek css ayarlarımızı tekrardan yapıyoruz ve ekran boyutu değiştikçe ona göre davranıyor.*/
+      @media all and (min-width: 800px) {
+        /*Main'de Aside 1'de ve Aside2'de yanyana hizalanma istedik. Bunun için önceden belirlemiş olduğumuz flex-basis özelliğini devre dışı bırakmamız gerekiyordu. Bunu da basitçe her birine flex : 1 flex: 3 ve flex:1 vererek aynı satır içerisinde yer almalarını ve ölçeklenmelerini sağlamış olduk. Orderlar vasıtasıyla da sıralamalarını ayarladık.*/
+
+        .main {
+          flex: 3;
+        }
+
+        .aside1 {
+          flex: 1;
+          order: 0;
+        }
+
+        .aside2 {
+          flex: 1;
+          order: 2;
+        }
+
+        .main {
+          order: 1;
+        }
+
+        .footer {
+          order: 4;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+        <h1>Header</h1>
+      </div>
+      <div class="main">
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia
+          dignissimos earum magni ullam provident a atque rem dolor fugiat
+          magnam facere laboriosam tempore, labore natus voluptates dolorem
+          accusamus ipsa nisi eveniet nihil. Animi tempore perferendis modi
+          consequatur, recusandae incidunt fugit, laudantium, deserunt aliquid
+          nihil quod inventore expedita corporis libero impedit beatae
+          temporibus eius unde eligendi facilis voluptatum sunt voluptatem illum
+          itaque! Dolores perspiciatis reprehenderit sit tenetur, blanditiis
+          magnam maxime maiores veniam quia.
+        </p>
+      </div>
+      <div class="aside1">
+        <h1>Aside 1</h1>
+      </div>
+      <div class="aside2">
+        <h1>Aside 2</h1>
+      </div>
+      <div class="footer">
+        <h1>Footer</h1>
+      </div>
+    </div>
+  </body>
+</html>

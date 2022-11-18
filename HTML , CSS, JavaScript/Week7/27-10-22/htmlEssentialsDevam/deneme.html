@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- External css head bölümünde çağırdığımız sayfaya dışarıdan aktarmak istediğimiz css dosyalarını çağırmak için kullandığımız yöntemdir. ve yapacağımız işlem head içerisinde <link /> tagini kullanarak bu tagin href özelliği içerisinde ilgili dosyamızın yolunu girip dosyayı sayfaya tanıtmaktır. Aşağıdakilerin hepsi external css örneğidir -->
+    <link rel="stylesheet" href="./yalandan.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./bootstrap.css" />
+    <link rel="stylesheet" href="./ikinci.css" />
+
+    <title>Document</title>
+
+    <!-- Internal CSS özelliği de yine head içerisinde yapılır. Bu sefer sadece o sayfaya özgü genel css özellikleri yazılır ve bu haliyle başka sayfalarda kullanılamaz. Kullanım şekli nedir. head içerisinde <style> </style> tagleri arasına css özellikleri eklenir.-->
+    <style>
+      h6 {
+        color: brown;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Diğer bir özelliğimiz olan css özelliği inline css özelliğidir. bu css özelliğinin diğer cssleri ezme özelliği bulunmaktadır. external ya da internal csslerden gelen bir stil özelliği varsa inline css ile eklediğiniz özellik hepsini ezer. Tek olarak bir etiketin stilini değiştirmek istediğimizde bu css yapısını kullanmaktayız.-->
+    <h2 style="color: springgreen">Deneme Sayfası</h2>
+    <p>Bu paragraf external css ile hazırlanmıştır.</p>
+    <div class="kutu1">
+      <h3>Barbaros</h3>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias officia
+        nulla libero dolorem iusto enim pariatur commodi nam dolorum numquam
+        dolore, unde laboriosam asperiores! Architecto aperiam ratione
+        laboriosam cupiditate, quis, error culpa a dolore numquam quam dolores
+        aliquid quidem modi, exercitationem reprehenderit quo! Vitae voluptatum
+        vel consequatur architecto esse adipisci?
+      </p>
+    </div>
+
+    <h4>aslkdjsaşldkjas</h4>
+    <p>asdşkasldşaskdklasşjdsalşdjsalşdjasşljdasşd</p>
+    <h3>aslşdjsaşldk</h3>
+  </body>
+</html>

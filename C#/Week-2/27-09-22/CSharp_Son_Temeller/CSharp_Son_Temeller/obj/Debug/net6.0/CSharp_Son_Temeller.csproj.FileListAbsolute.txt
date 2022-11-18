@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\bin\Debug\net6.0\CSharp_Son_Temeller.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\bin\Debug\net6.0\CSharp_Son_Temeller.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\bin\Debug\net6.0\CSharp_Son_Temeller.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\bin\Debug\net6.0\CSharp_Son_Temeller.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\bin\Debug\net6.0\CSharp_Son_Temeller.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\refint\CSharp_Son_Temeller.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\CSharp_Son_Temeller.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\CSharp_Son_Temeller\CSharp_Son_Temeller\obj\Debug\net6.0\ref\CSharp_Son_Temeller.dll

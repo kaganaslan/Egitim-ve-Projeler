@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantikler</title>
+    <style>
+      header {
+        background-color: blueviolet;
+      }
+      footer {
+        background-color: darkgray;
+      }
+
+      #makaleler {
+        background-color: aqua;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Semantik dediğimiz yapı HTML 5 ile lugata eklenen br yapıdır. Bu yapının temel özelliği kod bloklarımızı gruplamasıdır. ÖZel isimlendirmeler kullanarak hangi alanda çalıştığımız hakkında bilgi veriyoruz. Örneğin header yazarak sayfanın en üst tarafındaki temel giriş kısımlarını kodladığımızı gerek arama motorlarına gerek diğer developerlara göstermiş oluyoruz. Bununla beraber kodlarımız daha derli toplu ve bir ebeveyne sahip olmuş oluyorlar. Böylece ebeveyne vermiş olduğumuz stil özellikleri de içerisindeki çocuk bileşenlere aktarılmış oluyor. Diğer semantik isimlendirme örneklerimiz; aside, main, footer, section, article.... vsvs-->
+    <!-- Header start-->
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Anasayfa</a></li>
+          <li><a href="#">Ürünler</a></li>
+          <li><a href="#">İletişim</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Header end-->
+    <section id="makaleler">
+      <ul>
+        <li>Makale 1</li>
+        <li>Makale 2</li>
+        <li>Makale 3</li>
+      </ul>
+      <br />
+      <section id="makale1">
+        <h2>Makale 1</h2>
+        <hr />
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum,
+          eos? Saepe ullam tenetur cupiditate libero quisquam suscipit atque
+          fugiat illo odio quod soluta, voluptatibus dolore. Cum corporis,
+          suscipit magnam laudantium impedit earum nobis repudiandae vitae
+          numquam! Eligendi laudantium iste quisquam iusto mollitia dolorem
+          illum.
+        </p>
+      </section>
+      <section id="makale2">
+        <h2>Makale 1</h2>
+        <hr />
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum,
+          eos? Saepe ullam tenetur cupiditate libero quisquam suscipit atque
+          fugiat illo odio quod soluta, voluptatibus dolore. Cum corporis,
+          suscipit magnam laudantium impedit earum nobis repudiandae vitae
+          numquam! Eligendi laudantium iste quisquam iusto mollitia dolorem
+          illum.
+        </p>
+      </section>
+    </section>
+
+    <main>
+      <h5>En çok oynanan oyunlar</h5>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero corporis.
+      </p>
+      <section id="tüm-oyun-yorumlari">
+        <article>
+          <h6>Oyuncu Adı: Bilim Hormekoğlu</h6>
+          <h6>Yorumları</h6>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit,
+            vitae quisquam cum consequatur illum quam, expedita sed non
+            obcaecati deserunt alias hic omnis amet.
+          </p>
+        </article>
+      </section>
+    </main>
+
+    <section id="tümyazilar">
+      <article id="birincipost">
+        <img src="" alt="" />
+        <h3>Başlık</h3>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam
+          consequatur doloribus magnam hic maxime ipsa. Doloribus deserunt
+          molestias amet, qui dolorum a optio laborum dolor!
+        </p>
+      </article>
+    </section>
+    <!-- Footer start-->
+    <footer>
+      <center>
+        <p>Copyright 2022 Wissen Akademie, A.Ş</p>
+      </center>
+    </footer>
+    <!-- Footer end-->
+  </body>
+</html>

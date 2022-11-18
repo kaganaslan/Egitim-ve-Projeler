@@ -1,0 +1,15 @@
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\bin\Debug\net6.0\21-09-22_Donguler_Ornek.exe
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\bin\Debug\net6.0\21-09-22_Donguler_Ornek.deps.json
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\bin\Debug\net6.0\21-09-22_Donguler_Ornek.runtimeconfig.json
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\bin\Debug\net6.0\21-09-22_Donguler_Ornek.dll
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\bin\Debug\net6.0\21-09-22_Donguler_Ornek.pdb
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.csproj.AssemblyReference.cache
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.AssemblyInfoInputs.cache
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.AssemblyInfo.cs
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.csproj.CoreCompileInputs.cache
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.dll
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\refint\21-09-22_Donguler_Ornek.dll
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.pdb
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\21-09-22_Donguler_Ornek.genruntimeconfig.cache
+E:\consoleprogramming\çalışma\21-09-22_Donguler_Ornek\21-09-22_Donguler_Ornek\obj\Debug\net6.0\ref\21-09-22_Donguler_Ornek.dll

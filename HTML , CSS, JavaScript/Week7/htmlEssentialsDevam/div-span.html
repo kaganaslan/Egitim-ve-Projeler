@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      .basliklar {
+        background-color: blueviolet;
+        color: white;
+        border: 3px solid black;
+      }
+
+      .span1 {
+        font-weight: bold;
+        color: black;
+        font-size: 20px;
+      }
+    </style>
+    <title>Div ve Span</title>
+  </head>
+  <body>
+    <!--div -- Semantiklerle aynı işleve sahiptir ve içerisindeki kodların ne işe yaradığını ya da hangi alanda faaliyet gösterdiğini belirtir. Bu kodları gruplamış olur ve bunlara stil özellerikleri aktarmak için işe yarar-->
+
+    <div id="header" class="basliklar">
+      <h1>En iyi filmler</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam modi in
+        suscipit libero quaerat aperiam!
+      </p>
+    </div>
+
+    <!-- classlar herhangi bir elemente tıpkı idler gibi eklenebilen özelliklerdir. İStediğimiz ismi verebiliriz classlara. Ve verdiğimiz ismi style bölümünde başına nokta ekleyerek süslü parantezlerle içerisine istediğimiz stil özelliklerini oluşturacak şekilde tasarlarız. Daha sonrasında bu class özelliğini istediğimiz herhangi bir elemente tanımlarsak o element de ilgili classın özelliklerini taşımış olur.-->
+    <div class="basliklar">
+      <h2>Lorem ipsum dolor sit amet.</h2>
+      <!-- Peki span nedir? Span de bir yazı blokunda farklı bir özellik göstermesini istediğimiz bir alanı ayırarak sadece oraya özgü özellikler tanımlayabilmemize yarayan bir tagdir.-->
+      <p>
+        Lorem ipsum dolor
+        <span class="span1"> sit amet consectetur </span>
+        Selamun aleyküm hayırlı işler
+      </p>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/eeN21D_E2Rk"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </body>
+</html>

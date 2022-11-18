@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\bin\Debug\net6.0\15_09_22_Project.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\bin\Debug\net6.0\15_09_22_Project.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\bin\Debug\net6.0\15_09_22_Project.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\bin\Debug\net6.0\15_09_22_Project.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\bin\Debug\net6.0\15_09_22_Project.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\refint\15_09_22_Project.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\15_09_22_Project.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\15_09_22_Project\15_09_22_Project\obj\Debug\net6.0\ref\15_09_22_Project.dll

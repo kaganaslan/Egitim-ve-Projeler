@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _16_09_22_Karar_Yapilari
+build_property.ProjectDir = C:\Users\Barbaros Ciga\source\repos\Wissen-304\Week-1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\

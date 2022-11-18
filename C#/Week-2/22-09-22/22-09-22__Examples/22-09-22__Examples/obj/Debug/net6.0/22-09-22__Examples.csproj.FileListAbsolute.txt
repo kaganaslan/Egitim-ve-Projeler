@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\bin\Debug\net6.0\22-09-22__Examples.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\bin\Debug\net6.0\22-09-22__Examples.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\bin\Debug\net6.0\22-09-22__Examples.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\bin\Debug\net6.0\22-09-22__Examples.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\bin\Debug\net6.0\22-09-22__Examples.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\refint\22-09-22__Examples.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\22-09-22__Examples.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\22-09-22__Examples\22-09-22__Examples\obj\Debug\net6.0\ref\22-09-22__Examples.dll

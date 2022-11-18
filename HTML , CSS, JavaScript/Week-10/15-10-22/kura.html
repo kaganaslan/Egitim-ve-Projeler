@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="bg-dark">
+    <div
+      style="height: 100vh"
+      class="cikti d-flex justify-content-around align-items-center text-center"
+    >
+      <div class="sol">
+        <h3 class="text-danger" id="yerdegisecekh1">Yeri Değişecek Kişi</h3>
+
+        <button id="yeridegisen" class="btn btn-danger my-3">SEÇ</button>
+      </div>
+      <div class="sag">
+        <h3 class="text-danger" id="yerinegecenh1">Yerine Geçecek Kişi</h3>
+
+        <button id="yerinegecenbtn" class="btn btn-danger my-3">SEÇ</button>
+      </div>
+    </div>
+
+    <script>
+      let yeridegisecekler = ["Kağan", "Selin", "Seda S.", "Seda Ö.", "Bilim"];
+      let yerineGececekler = ["Can", "Burak", "Esma"];
+
+      let yeriDegisenButon = document.querySelector("#yeridegisen");
+      yeriDegisenButon.addEventListener("click", yeridegisensec);
+
+      let yerineGececekButon = document.querySelector("#yerinegecenbtn");
+      yerineGececekButon.addEventListener("click", yerineGecenFunc);
+
+      let yeridegisenh1 = document.getElementById("yerdegisecekh1");
+      let yerinegecenh1 = document.getElementById("yerinegecenh1");
+      function yeridegisensec() {
+        let random = Math.floor(Math.random() * yeridegisecekler.length);
+        yeridegisenh1.innerHTML = "";
+        yeridegisenh1.innerHTML += ` ${yeridegisecekler[random]}`;
+        yeridegisecekler.splice(random, 1);
+        console.log(yeridegisecekler);
+      }
+
+      function yerineGecenFunc() {
+        yerinegecenh1.innerHTML = "";
+        let random = Math.floor(Math.random() * yerineGececekler.length);
+        console.log(random);
+        yerinegecenh1.innerHTML += ` ${yerineGececekler[random]}`;
+        yerineGececekler.splice(random, 1);
+        console.log(yerineGececekler);
+      }
+    </script>
+  </body>
+</html>

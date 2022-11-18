@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Barbaros",
+    "surname": "CİGA",
+    "email": "barbarosciga@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "Seda",
+    "surname": "Özkaya",
+    "email": "s.ozkaya@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Can",
+    "surname": "Boyraz",
+    "email": "c.boyraz@gmail.com"
+  },
+  {
+    "id": "4",
+    "name": "Burak",
+    "surname": "Çorbacıoğlu",
+    "email": "b.corbaci@gmail.com"
+  },
+  {
+    "id": "5",
+    "name": "Selin",
+    "surname": "Bayatlı",
+    "email": "s.bayatli@gmail.com"
+  },
+  {
+    "id": "6",
+    "name": "Esma",
+    "surname": "Sivri",
+    "email": "e.sivri@gmail.com"
+  },
+  {
+    "id": "7",
+    "name": "Aydın",
+    "surname": "Yıldız",
+    "email": "ay.yildiz@gmail.com"
+  },
+  {
+    "id": "8",
+    "name": "Aslıhan ",
+    "surname": "Özkaya",
+    "email": "a.ozkaya@gmail.com"
+  },
+  {
+    "id": "9",
+    "name": "Buğra ",
+    "surname": "Coşkun",
+    "email": "b.coskun@gmail.com"
+  }
+]

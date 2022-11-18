@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\bin\Debug\net6.0\DovuscuGame.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\bin\Debug\net6.0\DovuscuGame.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\bin\Debug\net6.0\DovuscuGame.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\bin\Debug\net6.0\DovuscuGame.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\bin\Debug\net6.0\DovuscuGame.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\refint\DovuscuGame.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\DovuscuGame.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\DovuscuGame\DovuscuGame\obj\Debug\net6.0\ref\DovuscuGame.dll

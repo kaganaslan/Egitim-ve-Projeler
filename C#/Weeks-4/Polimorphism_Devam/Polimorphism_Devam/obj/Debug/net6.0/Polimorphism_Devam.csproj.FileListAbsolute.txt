@@ -1,0 +1,15 @@
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\bin\Debug\net6.0\Polimorphism_Devam.exe
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\bin\Debug\net6.0\Polimorphism_Devam.deps.json
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\bin\Debug\net6.0\Polimorphism_Devam.runtimeconfig.json
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\bin\Debug\net6.0\Polimorphism_Devam.dll
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\bin\Debug\net6.0\Polimorphism_Devam.pdb
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.csproj.AssemblyReference.cache
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.GeneratedMSBuildEditorConfig.editorconfig
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.AssemblyInfoInputs.cache
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.AssemblyInfo.cs
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.csproj.CoreCompileInputs.cache
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.dll
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\refint\Polimorphism_Devam.dll
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.pdb
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\Polimorphism_Devam.genruntimeconfig.cache
+E:\consoleprogramming\çalışma\Polimorphism_Devam\Polimorphism_Devam\obj\Debug\net6.0\ref\Polimorphism_Devam.dll

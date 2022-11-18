@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\bin\Debug\net6.0\Karar-Odev-Cozum.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\bin\Debug\net6.0\Karar-Odev-Cozum.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\bin\Debug\net6.0\Karar-Odev-Cozum.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\bin\Debug\net6.0\Karar-Odev-Cozum.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\bin\Debug\net6.0\Karar-Odev-Cozum.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\refint\Karar-Odev-Cozum.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\Karar-Odev-Cozum.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\Karar-Odev-Cozum\Karar-Odev-Cozum\obj\Debug\net6.0\ref\Karar-Odev-Cozum.dll

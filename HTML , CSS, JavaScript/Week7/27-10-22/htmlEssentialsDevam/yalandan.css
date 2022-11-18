@@ -1,0 +1,17 @@
+h2 {
+  color: springgreen;
+  font-size: 50px;
+  background-color: crimson;
+}
+
+p {
+  font-size: 30px;
+  border-bottom: 3px solid blue;
+}
+/* Hover pseudo css özelliklerinden biridir. ilgili elementin adı yazılır iki nokta üst üste işareti koyulur ve hover dibine yazılır. ilgili elementin mouse ile üzerine gelindiğinde olmasını istediğimiz css özelliğini yazarız */
+p:hover {
+  background-color: black;
+  color: crimson;
+  cursor: pointer;
+  font-size: 45px;
+}

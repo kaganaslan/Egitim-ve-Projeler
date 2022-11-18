@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\bin\Debug\net6.0\16-09-22_Variables_Devam.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\bin\Debug\net6.0\16-09-22_Variables_Devam.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\bin\Debug\net6.0\16-09-22_Variables_Devam.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\bin\Debug\net6.0\16-09-22_Variables_Devam.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\bin\Debug\net6.0\16-09-22_Variables_Devam.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\refint\16-09-22_Variables_Devam.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\16-09-22_Variables_Devam.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Variables_Devam\16-09-22_Variables_Devam\obj\Debug\net6.0\ref\16-09-22_Variables_Devam.dll

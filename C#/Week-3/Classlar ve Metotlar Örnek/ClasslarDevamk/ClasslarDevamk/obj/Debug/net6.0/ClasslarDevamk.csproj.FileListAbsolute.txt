@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\bin\Debug\net6.0\ClasslarDevamk.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\bin\Debug\net6.0\ClasslarDevamk.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\bin\Debug\net6.0\ClasslarDevamk.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\bin\Debug\net6.0\ClasslarDevamk.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\bin\Debug\net6.0\ClasslarDevamk.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\refint\ClasslarDevamk.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ClasslarDevamk.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\ClasslarDevamk\ClasslarDevamk\obj\Debug\net6.0\ref\ClasslarDevamk.dll

@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\bin\Debug\net6.0\20-09-22_Donguler_Loops.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\bin\Debug\net6.0\20-09-22_Donguler_Loops.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\bin\Debug\net6.0\20-09-22_Donguler_Loops.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\bin\Debug\net6.0\20-09-22_Donguler_Loops.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\bin\Debug\net6.0\20-09-22_Donguler_Loops.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\refint\20-09-22_Donguler_Loops.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\20-09-22_Donguler_Loops.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\20-09-22_Donguler_Loops\20-09-22_Donguler_Loops\obj\Debug\net6.0\ref\20-09-22_Donguler_Loops.dll

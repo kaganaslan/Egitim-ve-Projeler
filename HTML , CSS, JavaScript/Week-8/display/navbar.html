@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      /* 
+        display: Inline özelliği inline'ın atandığı içeriğin yükseklik ve genişliği kadar alan kaplar. Normalde blok elemanlar olan li elemanlara display inline dediğimiz zaman artık ilgili satırda içeriğinin kapladığı alan kadar yer kaplar ve yan yana yazılmaya devam eder. display inline olan elementlerde genişlik ve yükseklik ayarlarınız yok sayılır. sadece içeriğin oluşturduğu genişlik ve yükseklik kadar alan ayrılır.
+        
+
+
+        */
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      ul {
+        list-style-type: none;
+        background-color: blueviolet;
+        border: 3px solid black;
+        height: 50px;
+        width: 100%;
+        text-align: right;
+      }
+      li {
+        margin-top: 10px;
+        /* float: right; */
+
+        display: inline-block;
+        background-color: orange;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar">
+      <ul>
+        <li><a href="#">Anasayfa</a></li>
+        <li><a href="#">Hakkımızda</a></li>
+        <li><a href="#">Ürünler</a></li>
+        <li><a href="#">İletişim</a></li>
+      </ul>
+    </div>
+    <a href="">Selams</a><a href="">Selams</a><a href="">Selams</a
+    ><a href="">Selams</a><a href="">Selams</a>
+  </body>
+</html>

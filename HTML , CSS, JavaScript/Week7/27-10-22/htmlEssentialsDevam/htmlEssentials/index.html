@@ -1,0 +1,73 @@
+<!-- Yorum Satırı Nasıl Yapılıyor? -->
+<!-- Önce döküman tipimizi belirtiyoruz-->
+<!DOCTYPE html>
+<!-- Html çalışma alanını başlattık-->
+<!-- Html sayfalarının tüm içerikleri mutlaka html tagleri arasında yazılmalıdır. Temel anlamda iki adet alt ögesi vardır. Bu alt ögeler head ve body şeklinde ikiye ayrılır. -->
+<html>
+  <!-- Html sayfasında kullanılan harici kaynakların (css dosyaları, javascript dosyaları ya da hazır bir kütüphane linki vs) sayfamıza tanıtıldığı kısım. Bununla beraber sayfamızın arama motorlarına tanıtıldığı özet bilgiler yani meta taglerinin eklendiği alan. Ek olarak title bilgisini de bu alanda vermekteyiz. -->
+  <head>
+    <!-- Sayfamızın başlığıdır-->
+    <title>Wissen Akademie HTML</title>
+    <!-- Meta tagleri ile sayfamızı SEO bakımından hazırladık. Yani arama motorları tarafından bulunurluğunu düzenledik.-->
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Html Temelleri Wissen Akademie Full Stack Kursu"
+    />
+    <meta name="keywords" content="HTML, CSS, JavaScript" />
+    <meta name="author" content="Barbaros C" />
+    <!-- Harici kaynakları eklemek için de link tagini kullanmaktayız.-->
+    <link rel="stylesheet" href="/style.css" />
+    <!-- Dışarıdan stil dosyası almak yerine kendi sayfamız içerisinde stillerimizi hazırlamak istiyorsak yine head içerisinde bir style tagi ekleyerek faaliyet alanı içinde stillerimizi yazabiliriz.-->
+    <style></style>
+  </head>
+  <body>
+    <!-- Sayfamızda başlık oluşturmak için h taglerini kullanmaktayız. 1'den 6'ya kadar giden taglerde numara arttıkça başlık boyutu küçülür.-->
+    <h1>Wissen Akademi Başlık 1</h1>
+    <h2>Wissen Akademi Başlık 2</h2>
+    <h3>Wissen Akademi Başlık 3</h3>
+    <h4>Wissen Akademi Başlık 4</h4>
+    <h5>Wissen Akademie Başlık 5</h5>
+    <h6>Wissen Akademi Başlık 6</h6>
+    <!-- p tagleri ile uzun yazılar text ifadelerimizi belirtiyoruz-->
+    <p>
+      Wissen Akademie Full Stack Web Development dersleri. Html Temelleri
+      Öğrenilmektedir. Şuana kadar h ve p taglerini öğrendik.
+    </p>
+    <!-- hr tagi ile bileşinimizin altına sayfa boyu devam eden (bunun ayarı yapılabilmektedir) bir çizgi ekliyoruz. -->
+    <hr />
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores mollitia
+      id adipisci repellendus, architecto debitis.
+    </p>
+    <hr />
+    <!-- br tagi ile alt satıra geçiyoruz. yan yana kaç defa kullanırsak o kadar satır aşağı ineriz.-->
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas
+      repudiandae ratione. Rem quod quidem tempore sit nemo! <br /><br />
+      Quia atque incidunt ab. Perspiciatis nam ipsa natus amet nesciunt modi eum
+      in exercitationem commodi repellendus neque quod omnis sit dolore mollitia
+      officia, consequuntur sapiente deleniti ducimus unde debitis sint illo
+      nihil!
+    </p>
+    <!-- a tagi içerisinde default olarak href değeri alan bir tagdir. href bize link yönlendirmesi yaptığımızda gidilecek olan sitenin linkini yazdığımız kısım olarak gelir. bu attribute (href) ve buna benzer diğer taglere de ekleyeceğimiz attribute'lar syntax olarak yanına bir eşittir ifadesi alır ve tırnak işaretleri arasına değerleri gireriz. Opsiyonel olarak eklediğimiz ikinci özellik(attribute) target özelliğidir. target özelliği ile tıklanınca gidilecek olan linkin nerede açılacağının hedefini belirleriz. Aşağıdaki örnekte blank diyerek yeni bir sekmede açılmasını talep ettik. attributeların içerisine ne geleceğini bilemiyor ise tırnakları açıp içerisinde ctrl + boşluk tuşuna basarak olası değerleri görüntüleyebiliriz.-->
+    <a href="https://www.google.com/" target="_blank"
+      >Arama Yapmak İçin Tıklayınız</a
+    >
+
+    <hr />
+
+    <img
+      src="https://pbs.twimg.com/profile_images/1272872741843226624/W0wdKtWv_400x400.jpg"
+      alt="wissen akademie"
+      width="150px"
+    />
+    <br />
+
+    <a href="https://www.wissenakademie.com/" target="_blank">
+      <img src="./img/1519952582102.jpg" alt="wissen akademie" width="150px" />
+    </a>
+  </body>
+</html>

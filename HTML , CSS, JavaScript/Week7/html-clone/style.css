@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Cagliostro&family=Montserrat:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.ikincitablo a,
+.ucuncutablo a,
+.dorduncutablo a {
+  font-weight: bold;
+}
+body {
+  margin-top: 20px;
+  background-color: #9437ff;
+}
+
+.ilksatir td {
+  text-align: right;
+}
+.ilksatir {
+  background-color: #9437ff;
+  height: 40px;
+}
+
+.ilktablo {
+  border-collapse: collapse;
+}
+
+.ilktablo i {
+  color: white;
+  font-size: 25px;
+  margin-right: 5px;
+}
+
+.ilksatir a {
+  text-decoration: none;
+  color: white;
+  padding: 5px 65px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.ilksatir td {
+  transition: all ease 0.8s;
+}
+
+.ilksatir td:hover {
+  background-color: #6326ab;
+}
+
+.ikincitablo {
+  background: url("https://static.wixstatic.com/media/d11edf_72fe03dc5fd1432bbf183a15207fd09e~mv2.png/v1/fill/w_958,h_639,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/G%C3%B6rsel---45.png");
+  height: 600px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.ikincitablo td {
+  vertical-align: middle;
+}
+
+.ikincitablo h1,
+.ikincitablo h2,
+.ikincitablo h3,
+.ikincitablo h4,
+.dorduncutablo h1 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.ikincitablo span,
+.dorduncutablo span {
+  font-weight: 700;
+}
+
+.ikincitablo a,
+.dorduncutablo a {
+  text-decoration: none;
+  color: white;
+  padding: 20px 40px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #6326ab;
+  margin-right: 15px;
+}
+
+.ikincitablo a:hover,
+.dorduncutablo a:hover {
+  text-decoration: none;
+  color: white;
+  padding: 20px 40px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #531f8f;
+  margin-right: 15px;
+}
+
+#basvuru {
+  text-decoration: none;
+  color: white;
+  padding: 18px 20px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #9437ff;
+  border: 2px solid white;
+  margin-right: 15px;
+}
+
+#basvuru:hover {
+  text-decoration: none;
+  color: white;
+  padding: 20px 20px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #6326ab;
+  border: none;
+  margin-right: 15px;
+}
+
+.ikincitablo .stickybuton {
+  text-decoration: none;
+  color: white;
+  padding: 15px 30px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #9437ff;
+  margin-right: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  font-weight: 500;
+  position: fixed;
+  bottom: 13px;
+  left: 1100px;
+}
+.ikincitablo .stickybuton:hover {
+  text-decoration: none;
+  color: white;
+  padding: 15px 30px;
+  font-family: "Montserrat", sans-serif;
+  background-color: #9437ff;
+  margin-right: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.ucuncutablo {
+  background-color: #fafafa;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+.ucuncutablo h1 {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.ucuncutablo span {
+  font-weight: 700;
+}
+
+.ucuncutablo i {
+  color: #6326ab;
+  position: relative;
+  top: -10px;
+}
+
+.ucuncutablo p {
+  font-size: 20px;
+  padding: 12px;
+}
+
+.dorduncutablo td {
+  height: 450px;
+  text-align: left;
+  padding: 0 10%;
+}
+
+.dorduncutablo p {
+  margin-top: 10px;
+  color: 935A76;
+}
+
+.lila {
+  background: #c99bff;
+  border: none;
+}
+
+.mor {
+  background-color: #9437ff;
+  background: url("https://static.wixstatic.com/media/d93270_4b80303e66fc4860970d7b15d7a9faba~mv2.jpg/v1/fill/w_679,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/kampus_365_bireysel_manset_v2.jpg");
+}
+
+.dorduncutablo a {
+  padding: 20px 60px;
+}

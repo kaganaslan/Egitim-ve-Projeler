@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\bin\Debug\net6.0\16-09-22_Karar_Yapilari.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\bin\Debug\net6.0\16-09-22_Karar_Yapilari.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\bin\Debug\net6.0\16-09-22_Karar_Yapilari.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\bin\Debug\net6.0\16-09-22_Karar_Yapilari.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\bin\Debug\net6.0\16-09-22_Karar_Yapilari.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\refint\16-09-22_Karar_Yapilari.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\16-09-22_Karar_Yapilari.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week1\16-09-22_Karar_Yapilari\16-09-22_Karar_Yapilari\obj\Debug\net6.0\ref\16-09-22_Karar_Yapilari.dll

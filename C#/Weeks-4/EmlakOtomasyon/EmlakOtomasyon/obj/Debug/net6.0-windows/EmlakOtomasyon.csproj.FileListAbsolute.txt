@@ -1,0 +1,17 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\bin\Debug\net6.0-windows\EmlakOtomasyon.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\bin\Debug\net6.0-windows\EmlakOtomasyon.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\bin\Debug\net6.0-windows\EmlakOtomasyon.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\bin\Debug\net6.0-windows\EmlakOtomasyon.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\bin\Debug\net6.0-windows\EmlakOtomasyon.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.Form1.resources
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.csproj.GenerateResource.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\refint\EmlakOtomasyon.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\EmlakOtomasyon.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week4\EmlakOtomasyon\EmlakOtomasyon\obj\Debug\net6.0-windows\ref\EmlakOtomasyon.dll

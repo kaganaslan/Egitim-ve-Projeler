@@ -1,0 +1,17 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\bin\Debug\net6.0-windows\Constructor_Ornek_Sinema.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\bin\Debug\net6.0-windows\Constructor_Ornek_Sinema.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\bin\Debug\net6.0-windows\Constructor_Ornek_Sinema.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\bin\Debug\net6.0-windows\Constructor_Ornek_Sinema.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\bin\Debug\net6.0-windows\Constructor_Ornek_Sinema.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.Form1.resources
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.csproj.GenerateResource.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\refint\Constructor_Ornek_Sinema.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\Constructor_Ornek_Sinema.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Constructor_Ornek_Sinema\Constructor_Ornek_Sinema\obj\Debug\net6.0-windows\ref\Constructor_Ornek_Sinema.dll

@@ -1,0 +1,15 @@
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\bin\Debug\net6.0\21-09-22_Arrays.exe
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\bin\Debug\net6.0\21-09-22_Arrays.deps.json
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\bin\Debug\net6.0\21-09-22_Arrays.runtimeconfig.json
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\bin\Debug\net6.0\21-09-22_Arrays.dll
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\bin\Debug\net6.0\21-09-22_Arrays.pdb
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.csproj.AssemblyReference.cache
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.AssemblyInfoInputs.cache
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.AssemblyInfo.cs
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.csproj.CoreCompileInputs.cache
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.dll
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\refint\21-09-22_Arrays.dll
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.pdb
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\21-09-22_Arrays.genruntimeconfig.cache
+E:\consoleprogramming\çalışma\21-09-22_Arrays\21-09-22_Arrays\obj\Debug\net6.0\ref\21-09-22_Arrays.dll

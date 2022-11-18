@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\bin\Debug\net6.0\Props_Contructor.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\bin\Debug\net6.0\Props_Contructor.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\bin\Debug\net6.0\Props_Contructor.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\bin\Debug\net6.0\Props_Contructor.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\bin\Debug\net6.0\Props_Contructor.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\refint\Props_Contructor.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\Props_Contructor.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week3\26-09-22\29-09-22\OOP\Props_Contructor\Props_Contructor\obj\Debug\net6.0\ref\Props_Contructor.dll

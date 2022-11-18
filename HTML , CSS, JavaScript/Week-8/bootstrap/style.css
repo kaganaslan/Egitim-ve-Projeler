@@ -1,0 +1,19 @@
+.navbar {
+  background-color: blueviolet !important;
+}
+
+.fotolu-acik .foto {
+  background-color: blueviolet;
+}
+
+.abuzer {
+  background-color: rgb(228, 211, 176);
+}
+
+.mehmet {
+  --bs-gutter-x: 0 !important;
+}
+
+* {
+  --bs-gutter-x: 0 !important;
+}

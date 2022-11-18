@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+      }
+
+      .container {
+        margin: 20px;
+      }
+
+      .row {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+
+      .kutu1 {
+        background-color: springgreen;
+        outline: 1px solid black;
+        flex: 1;
+        height: 150px;
+        margin: 10px;
+      }
+      .kutu4 {
+        background-color: springgreen;
+        outline: 1px solid black;
+        flex: 1;
+        height: 150px;
+        margin: 10px;
+      }
+      .kutu1 {
+        background-color: springgreen;
+        outline: 1px solid black;
+        flex: 1;
+        height: 150px;
+        margin: 10px;
+      }
+
+      .kutu2 {
+        height: 250px;
+        background-color: crimson;
+        flex: 1;
+        outline: 1px solid black;
+        margin: 20px;
+      }
+
+      .kutu3 {
+        height: 250px;
+        background-color: blueviolet;
+        flex: 1;
+        outline: 1px solid black;
+        margin: 20px;
+      }
+
+      @media screen and (max-width: 650px) {
+        .kutu1,
+        .kutu2,
+        .kutu3 {
+          flex-basis: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="kutu1"></div>
+        <div class="kutu4"></div>
+        <div class="kutu5"></div>
+      </div>
+      <div class="row">
+        <div class="kutu2"></div>
+        <div class="kutu2"></div>
+      </div>
+      <div class="row">
+        <div class="kutu3"></div>
+      </div>
+    </div>
+  </body>
+</html>

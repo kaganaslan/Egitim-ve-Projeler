@@ -1,0 +1,15 @@
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\bin\Debug\net6.0\String_Array_Methods_Rest.exe
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\bin\Debug\net6.0\String_Array_Methods_Rest.deps.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\bin\Debug\net6.0\String_Array_Methods_Rest.runtimeconfig.json
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\bin\Debug\net6.0\String_Array_Methods_Rest.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\bin\Debug\net6.0\String_Array_Methods_Rest.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.csproj.AssemblyReference.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.AssemblyInfoInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.AssemblyInfo.cs
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.csproj.CoreCompileInputs.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\refint\String_Array_Methods_Rest.dll
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.pdb
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\String_Array_Methods_Rest.genruntimeconfig.cache
+C:\Users\Barbaros Ciga\Desktop\dotNetProjects\Week2\String_Array_Methods_Rest\String_Array_Methods_Rest\obj\Debug\net6.0\ref\String_Array_Methods_Rest.dll

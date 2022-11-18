@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+/*
+1) Box sizing seçeneği bize iki adet özellik sunar. Bu özellikler border box ve content boxtır. Border box seçili olduğu zaman ilgili kutu her ne ise onun dışında vermiş olduğumuz genişlik ve yükseklik değerlerini sabit tutar. Ve bu kutudaki içeriğe eğer ki bir padding ya da margin versek dahi dıştan dışa vermiş olduğumuz genişlik ve yükseklik bozulmaz. Kutunun içerisinde padding değerleri işler. 
+2) Box sizin content-box olduğunda (yani default değeri) içerik olarak kutuda ne varsa onun üzerinden margin ve padding değerlerini uygular bu sebeple kutuya genişlik ya da yükseklik verseniz bile padding değerine göre ezilir ve büyüyüp küçülebilir.
+Yani özetle box sizing kutunun genişlik ve yükseklik değerlerinin korunup korunmaması ile alakalı bir seçenektir.
+*/
+body {
+  border: 2px solid green;
+}
+.kutu1 {
+  border: 5px solid black;
+  width: 450px;
+  height: 250px;
+  background-color: aquamarine;
+  padding: 0 50px;
+  border-radius: 20px;
+  /* margin-bottom: 30px;
+  margin-top: 50px; */
+  margin: 200px 0 0 400px;
+}
+
+.kutu2 {
+  margin-left: 150px;
+  border: 5px solid yellow;
+  width: 450px;
+  height: 250px;
+  background-color: blueviolet;
+  color: white;
+  padding: 10px 30px;
+  margin-top: 30px;
+}

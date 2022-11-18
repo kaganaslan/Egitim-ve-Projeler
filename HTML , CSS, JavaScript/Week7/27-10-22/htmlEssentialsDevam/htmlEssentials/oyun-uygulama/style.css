@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cagliostro&family=Montserrat:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap");
+body {
+  background-color: beige;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  color: white;
+  letter-spacing: 5px;
+  background-color: brown;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: orangered;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Cagliostro", sans-serif;
+}
+
+p {
+  font-weight: bold;
+}
