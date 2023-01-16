@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Nunito+Sans:wght@300;400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 800;
+}
+
+.badge {
+  font-size: 8px;
+}
+
+.navbar-brand {
+  color: crimson;
+}
+
+.bg-dark {
+  background-color: #f49d1a !important;
+}
+
+.nav-link {
+  transition: all ease 0.5s;
+}
+.nav-link:hover {
+  color: crimson !important;
+}
